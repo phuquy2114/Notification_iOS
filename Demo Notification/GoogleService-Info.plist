@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>567579562580-247kn38or1m8vqatlkl2q9evrou1fh66.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.567579562580-247kn38or1m8vqatlkl2q9evrou1fh66</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>567579562580-8kkv0m36ol5l22266pq8ek8lv55c9v3j.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCmqVwmBtAApHZw0GFgpZuDuPsbAGBcbUA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>567579562580</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.primarynet.fellow4u</string>
+	<key>PROJECT_ID</key>
+	<string>fellow4u-fcm-id</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fellow4u-fcm-id.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:567579562580:ios:ec5a24e637c490a8</string>
+	<key>DATABASE_URL</key>
+	<string>https://fellow4u-fcm-id.firebaseio.com</string>
+</dict>
+</plist>
